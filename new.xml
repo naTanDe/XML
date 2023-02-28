@@ -1,6 +1,9 @@
- 	"first_name":"Potap",
-        "last_name":"Denisov",
-        "report":"Taptigovich",
-        "age":"36",
-        "number of pets":"1",
-        "salary":"100000+
+<?xml version="1.0" encoding="UTF-8"?>
+<name>
+	<first_name> Potap </first_name>
+	<last_name> Denisov </last_name>
+	<report> Taptigovich </report>
+</name>
+<age> 36 </age>
+<number_of_pets> 1 </namber_of_pets>
+<salary> 100000+ </solary>
