@@ -1,13 +1,17 @@
-{
-  "#":"1",
-  "Title":"Не отображаются цифры кода в поле ввода номера телефона, во время входа в систему с использованием номера телефона.",
-  "Severity":"Minor",
-  "Priority":"3",
-  "Environment":"Android №1 (Xiaomi Redmi Note 7 10 QKQ1.190910.002)",
-  "Module":"Login",
-  "Element":"Sign in with a phone number",
-  "Steps":"1.Open APP 2.Enter valid phone namber",
-  "Expected Result":"The digits of the phone namber are displayed",
-  "Actual Result":"When entering a phone namber, the cursor moves, but the numbers are not displayed",
-  "Attacments":"https://drive.google.com/file/d/1AeLpUrvL1wDhpBUHLB9N_38K3BJt4Ytc/view?usp=share_linkzrut2RG6_qr2XM0rw/view?usp=share_link"
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<bag_report>
+	<ID> 1 </ID>
+	<Title> Не отображаются цифры кода в поле ввода номера телефона, во время входа в систему с использованием номера телефона. </Title>
+	<Severity> Minor </Severity>
+	<Priority> 3 </Priority>
+	<Environment> Android №1 (Xiaomi Redmi Note 7 10 QKQ1.190910.002) </Environment>
+	<Module> Login </Module>
+	<Element> Sign in with a phone number </Element>
+	<Steps> 
+		<1> Open APP </1>
+		<2> Enter valid phone namber </2>
+	</Steps>
+	<Expected_result> The digits of the phone namber are displayed </Expected_result>
+	<Actual_result> When entering a phone namber, the cursor moves, but the numbers are not displayed </Actual_result>
+	<Attacments> https://drive.google.com/file/d/1AeLpUrvL1wDhpBUHLB9N_38K3BJt4Ytc/view?usp=share_linkzrut2RG6_qr2XM0rw/view?usp=share_link </Attacments>
+</bag_report>
