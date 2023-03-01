@@ -1,19 +1,19 @@
-
-
-"skills_1":"Testing theoria",
-        "skills_2":"Client-server architecture",
-        "skills_3":"Structures HTTP",
-        "skills_4":"Structures JSON, XML",
-        "skills_5":"API testing (Postman)",
-        "skills_6":"Logging",
-        "skills_7":"Sniffing traffic (Charles, Fiddler)",
-        "skills_8":"Dev Tools",
-        "skills_9":"Structures HTTP",
-        "skills_10":"VPN",
-        "skills_11":"Mobile testing",
-        "skills_12":"Terminal Linux, bash",
-        "skills_13":"SQL, Data base (Postgres, Redis)",
-        "skills_14":"Load testing (Jmeter)",
-        "skills_15":"Scrum",
-        "skills_16":"Python"
-
+<?xml version="1.0" encoding="UTF-8"?>
+<post-course_skills>
+	<skills_1> Testing theoria </skills_1> 
+	<skills_2> Client-server architecture </skills_2> 
+	<skills_3> Structures HTTP </skills_3> 
+	<skills_4> Structures JSON </skills_4> 
+	<skills_5> API testing (Postman) </skills_5>
+	<skills_6> Logging </skills_6>
+	<skills_7> Sniffing traffic (Charles, Fiddler) </skills_7>
+	<skills_8> Dev Tools </skills_8>
+	<skills_9> Structures HTTP </skills_9>
+	<skills_10> VPN  </skills_10>
+	<skills_11> Mobile testing </skills_11>
+	<skills_12> Terminal Linux, bash  </skills_12>
+	<skills_13> SQL, Data base (Postgres, Redis) </skills_13>
+	<skills_14> Load testing (Jmeter) </skills_14>
+	<skills_15> Scrum </skills_15>
+	<skills_16> Python </skills_16>
+</post-course_skills>
